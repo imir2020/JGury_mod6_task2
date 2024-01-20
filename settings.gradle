@@ -1,0 +1,9 @@
+rootProject.name = 'JGury_mod6_task2'
+include 'view'
+include 'api'
+include 'util'
+include 'model'
+include 'model:service'
+include 'model:persistence'
+
+
